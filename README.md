@@ -1,4 +1,4 @@
-*The features shown below are part of the [Link] Detective Project, which is currently under development. As such, the demo's code/assets will remain private.*
+*The features shown below are part of the [Detective Project](https://github.com/jspro123/Demo-Detective-All), which is currently under development. As such, the demo's code/assets will remain private.*
 *I am not affiliated with any of the assets linked below.*
 ***
 
